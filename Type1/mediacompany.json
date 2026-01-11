@@ -1,0 +1,65 @@
+{
+    "언론사": [
+      {
+        "name": "한국일보",
+        "base_url": "https://www.hankookilbo.com",
+        "categories": {
+          "정치": "https://www.hankookilbo.com/News/Politics",
+          "경제": "https://www.hankookilbo.com/News/Economy",
+          "사회": "https://www.hankookilbo.com/News/Society",
+          "문화": "https://www.hankookilbo.com/News/Culture",
+          "국제": "https://www.hankookilbo.com/News/World",
+          "IT": "https://www.hankookilbo.com/News/IT"
+        }
+      },
+      {
+        "name": "경향신문",
+        "base_url": "https://www.khan.co.kr",
+        "categories": {
+          "정치": "https://www.khan.co.kr/politics",
+          "경제": "https://www.khan.co.kr/economy",
+          "사회": "https://www.khan.co.kr/society",
+          "문화": "https://www.khan.co.kr/culture",
+          "국제": "https://www.khan.co.kr/world",
+          "IT": "https://www.khan.co.kr/science"
+        }
+      },
+      {
+        "name": "조선일보",
+        "base_url": "https://www.chosun.com",
+        "categories": {
+          "정치": "https://www.chosun.com/politics",
+          "경제": "https://www.chosun.com/economy",
+          "사회": "https://www.chosun.com/national",
+          "문화": "https://www.chosun.com/culture",
+          "국제": "https://www.chosun.com/international",
+          "IT": "https://www.chosun.com/tech"
+        }
+      },
+      {
+        "name": "한겨레",
+        "base_url": "https://www.hani.co.kr",
+        "categories": {
+          "정치": "https://www.hani.co.kr/arti/politics",
+          "경제": "https://www.hani.co.kr/arti/economy",
+          "사회": "https://www.hani.co.kr/arti/society",
+          "문화": "https://www.hani.co.kr/arti/culture",
+          "국제": "https://www.hani.co.kr/arti/international",
+          "IT": "https://www.hani.co.kr/arti/science"
+        }
+      },
+      {
+        "name": "서울신문",
+        "base_url": "https://www.seoul.co.kr",
+        "categories": {
+          "정치": "https://www.seoul.co.kr/news/newsPolitics",
+          "경제": "https://www.seoul.co.kr/news/newsEconomy",
+          "사회": "https://www.seoul.co.kr/news/newsSociety",
+          "문화": "https://www.seoul.co.kr/news/newsCulture",
+          "국제": "https://www.seoul.co.kr/news/newsInternational",
+          "IT": "https://www.seoul.co.kr/news/newsScience"
+        }
+      }
+    ]
+  }
+  
